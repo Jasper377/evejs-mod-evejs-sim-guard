@@ -16,7 +16,7 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/Jasper377/evejs-mod-evejs-sim-guard/releases/download/v0.2.0/evejs-sim-guard-0.2.0.zip"
+      "url": "https://github.com/Jasper377/evejs-mod-evejs-sim-guard/releases/download/v0.4.0/evejs-sim-guard-0.4.0.zip"
     }
   ],
   "evejsVersions": [
@@ -32,8 +32,8 @@
   ],
   "repo": "https://github.com/Jasper377/evejs-mod-evejs-sim-guard",
   "requiresRestart": true,
-  "sha256": "3745f728d66bbf73cc31c5fdfdcaf049d16df9c4f2fff314ff6a8779e87191d3",
-  "sizeBytes": 22174,
+  "sha256": "45f6024e4b16ffe8c86804eb0222dc731a61721642154c8f5354a7e541ed50eb",
+  "sizeBytes": 22410,
   "tags": [],
-  "version": "0.2.0"
+  "version": "0.4.0"
 }
